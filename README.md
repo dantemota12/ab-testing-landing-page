@@ -36,5 +36,3 @@ metrics.
 
 ## 🛠️ Tools & Libraries
 Python · pandas · scipy.stats · statsmodels · seaborn · matplotlib
-
-## 📁 Repository Structure
